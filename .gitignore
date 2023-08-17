@@ -1,0 +1,14 @@
+# python venv
+Python/*/Pipfile
+Python/*/Pipfile.lock
+
+# excluyendo archivos creados por maven que no voy a necesitar
+Java/*/*/.settings/*
+Java/*/*/.classpath
+Java/*/*/.project
+Java/*/*/target/generated-resources/*
+Java/*/*/target/maven-status/*
+Java/*/*/target/test-classes/*
+Java/*/*/src/test/*
+
+.idea/
