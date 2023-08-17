@@ -29,7 +29,7 @@ public class EstudianteDao {
             while (rs.next()) {
                 var estudiante = new Estudiante();
 
-                estudiante.setIdEstudiante(rs.getInt("idestudiante2022"));
+                estudiante.setIdEstudiante(rs.getInt("idestudiantes2022"));
                 estudiante.setNombre(rs.getString("nombre"));
                 estudiante.setApellido(rs.getString("apellido"));
                 estudiante.setTelefono(rs.getString("telefono"));
@@ -151,6 +151,27 @@ public class EstudianteDao {
         return false;
     }
 
+    public boolean eliminarEstudiante(Estudiante estudiante) {
+        PreparedStatement ps;
+        Connection con = getConnection();
+        String sql = "DELETE FROM estudiantes2022 WHERE idestudiantes2022=?";
+        try {
+            ps = con.prepareStatement(sql);
+            ps.setInt(1, estudiante.getIdEstudiante());
+            ps.execute();
+            return true;
+        } catch (Exception e) {
+            System.out.println("Error al eliminar estudiante: " + e.getMessage());
+        } finally {
+            try {
+                con.close();
+            } catch (Exception e) {
+                System.out.println("Error al cerrar conexión: " + e.getMessage());
+            }
+        }
+        return false;
+    }
+
     public static void main(String[] args) {
         var estudianteDao = new EstudianteDao();
 
@@ -166,7 +187,8 @@ public class EstudianteDao {
         }
         */
 
-        /* Agregar Estudiante
+        /*
+        // Agregar Estudiante
         var est2 = new Estudiante("Carlas", "Lol", "12346969", "cjasdñ@gmuil.cum");
         
         var agregado = estudianteDao.agregarEst(est2);
@@ -175,9 +197,11 @@ public class EstudianteDao {
             System.out.println("Estudiante agregado: " + est2);
         } else {
             System.out.println("No se ha agregado estudiante: " + est2);
-        }
+        } 
         */
 
+
+        /*
         // Modificar Estudiante
         var eM = new Estudiante(1, "Juanita", "Null", "1000101", "fdas@asdf.qwe");
         var modificado = estudianteDao.modificarEst(eM);
@@ -186,6 +210,16 @@ public class EstudianteDao {
             System.out.println("Estudiante modificado: " + eM);
         } else {
             System.out.println("No se modificó el estudiante" + eM);
+        }
+        */
+
+        // Eliminar estudiante con id 3
+        var estudianteEliminar = new Estudiante(3);
+        var eliminado = estudianteDao.eliminarEstudiante(estudianteEliminar);
+        if (eliminado) {
+            System.out.println("Estudiante eliminado: " + estudianteEliminar);
+        } else {
+            System.out.println("No se eliminó al estudiante: " + estudianteEliminar);
         }
 
         // Listar los estudiantes
