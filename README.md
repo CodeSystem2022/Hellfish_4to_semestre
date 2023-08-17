@@ -13,9 +13,9 @@
   <a href="https://www.javascript.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" alt="JavaScript" width="80" height="80"></a>
   <a href="https://www.python.org"><img src="https://miro.medium.com/v2/resize:fit:378/1*y6zvdl68fA-5nd9v-StFMg.png" alt="Python" width="90" height="90"></a>
   <a href="https://www.postgresql.org"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" alt="PostgreSQL" width="90" height="90"></a>
-  <a href="https://nodejs.org/"><img src="https://vistaran-tech.s3.ap-south-1.amazonaws.com/wp-content/uploads/2022/05/13104926/nodejs-logo.png" alt="Node.js" width="80" height="80"></a>
-  <a href="https://www.djangoproject.com/"><img src="https://www.opengis.ch/wp-content/uploads/2020/04/django-python-logo.png" alt="Django" width="80" height="80"></a>
+  <a href="https://nodejs.org/"><img src="https://vistaran-tech.s3.ap-south-1.amazonaws.com/wp-content/uploads/2022/05/13104926/nodejs-logo.png" alt="Node.js" width="100" height="100"></a>
   <a href="https://www.mysql.com/products/workbench/"><img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png" alt="MySQL Workbench" width="90" height="90"></a>
+  <a href="https://www.postman.com/"><img src="https://yt3.googleusercontent.com/X-rhKMndFm9hT9wIaJns1StBfGbFdLTkAROwm4UZ3n9ucrBky5CFIeeZhSszFXBgQjItzCD0SA=s900-c-k-c0x00ffffff-no-rj" alt="Postman" width="90" height="90"></a>
 </div>
 
 <br>
