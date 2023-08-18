@@ -50,6 +50,6 @@ En este cuadro, se detallan las responsabilidades de los Scrum Leads para las pr
 - ...
 - ...
 
-<h2>Wiki Hellfish</h2>
+<h2>📖 Wiki Hellfish</h2>
 
-[Ir a la wiki del proyecto](https://github.com/CodeSystem2022/Hellfish_4to_semestre/wiki)
+[Ir a la wiki del proyecto](https://github.com/CodeSystem2022/Hellfish_4to_semestre/wiki) 🚀
