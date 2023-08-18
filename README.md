@@ -49,3 +49,7 @@ En este cuadro, se detallan las responsabilidades de los Scrum Leads para las pr
 - [Maricel Luna](https://github.com/Macelluna)
 - ...
 - ...
+
+<h2>Wiki Hellfish</h2>
+
+[Ir a la wiki del proyecto](https://github.com/CodeSystem2022/Hellfish_4to_semestre/wiki)
