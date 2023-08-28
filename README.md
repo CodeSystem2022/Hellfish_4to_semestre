@@ -29,7 +29,7 @@ En este cuadro, se detallan las responsabilidades de los Scrum Leads para las pr
 | <div align="center"><b>Semana 🚀</b></div> | <div align="center"><b>Scrum Lead</b></div> | <div align="center"><b>Proyecto</b></div> |
 | :-------: | :-------: | :-------: |
 |    💻 1    | [Ana Ascua](https://github.com/aniascua) | [Proyecto 1149](https://github.com/orgs/CodeSystem2022/projects/1149) |
-|    📝 2    |           |           |
+|    📝 2    | [Fabricio Navarro](https://github.com/elfabri) | [Proyecto 1285](https://github.com/orgs/CodeSystem2022/projects/1285) |
 |    📆 3    |           |           |
 |    📊 4    |           |           |
 |    🔍 5    |           |           |
