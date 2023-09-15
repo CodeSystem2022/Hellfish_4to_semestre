@@ -28,7 +28,7 @@ En este cuadro, se detallan las responsabilidades de los Scrum Leads para las pr
 
 | <div align="center"><b>Semana 🚀</b></div> | <div align="center"><b>Scrum Lead</b></div> | <div align="center"><b>Proyecto</b></div> |
 | :-------: | :-------: | :-------: |
-|    💻 1    |  |  |
+|    💻 1    | [Franco Blanco](https://github.com/FrancoFB)  | [Proyecto 1149](https://github.com/orgs/CodeSystem2022/projects/1149)  |
 |    📝 2    | [Fabricio Navarro](https://github.com/elfabri) | [Proyecto 1285](https://github.com/orgs/CodeSystem2022/projects/1285) |
 |    📆 3    |           |           |
 |    📊 4    |           |           |
@@ -45,7 +45,7 @@ En este cuadro, se detallan las responsabilidades de los Scrum Leads para las pr
 </div>
 
 - [Fabricio Navarro](https://github.com/elfabri)
-- ...
+- [Franco Blanco](https://github.com/FrancoFB)
 - ...
 
 <h2>📖 Wiki Hellfish</h2>
