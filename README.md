@@ -30,7 +30,7 @@ En este cuadro, se detallan las responsabilidades de los Scrum Leads para las pr
 | :-------: | :-------: | :-------: |
 |    💻 1    | [Franco Blanco](https://github.com/FrancoFB)  | [Proyecto 1149](https://github.com/orgs/CodeSystem2022/projects/1149)  |
 |    📝 2    | [Fabricio Navarro](https://github.com/elfabri) | [Proyecto 1285](https://github.com/orgs/CodeSystem2022/projects/1285) |
-|    📆 3    |           |           |
+|    📆 3    | [Sofia Sottile](https://github.com/SofiaaSottile18)| [Proyeto 1348](https://github.com/orgs/CodeSystem2022/projects/1348)|
 |    📊 4    |           |           |
 |    🔍 5    |           |           |
 |    ⚙️ 6    |           |           |
@@ -46,6 +46,10 @@ En este cuadro, se detallan las responsabilidades de los Scrum Leads para las pr
 
 - [Fabricio Navarro](https://github.com/elfabri)
 - [Franco Blanco](https://github.com/FrancoFB)
+- [Sofia Sottile](https://github.com/SofiaaSottile18)
+
+
+
 - ...
 
 <h2>📖 Wiki Hellfish</h2>
