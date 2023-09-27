@@ -1,12 +1,14 @@
 <div align="center">
   <h2><b>HELLFISH 4to semestre - UTN FRSR 2023</b></h2>
 </div>
+<br>
 
-<div align="right">
+<div align="center">
   <a href="https://www.frsr.utn.edu.ar/">
     <img src="https://utn.edu.ar/images/logo-utn.png" alt="Logo UTN" width="200">
   </a>
 </div>
+<br>
 
 <div align="center">
   <a href="https://www.java.com/"><img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png" alt="Java" width="90" height="90"></a>
@@ -17,7 +19,6 @@
   <a href="https://www.mysql.com/products/workbench/"><img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png" alt="MySQL Workbench" width="90" height="90"></a>
   <a href="https://www.postman.com/"><img src="https://yt3.googleusercontent.com/X-rhKMndFm9hT9wIaJns1StBfGbFdLTkAROwm4UZ3n9ucrBky5CFIeeZhSszFXBgQjItzCD0SA=s900-c-k-c0x00ffffff-no-rj" alt="Postman" width="90" height="90"></a>
 </div>
-
 <br>
 
 <div align="center">
