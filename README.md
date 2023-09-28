@@ -35,7 +35,7 @@ En este cuadro, se detallan las responsabilidades de los Scrum Leads para las pr
 |    📊 4    |           | [1453](https://github.com/orgs/CodeSystem2022/projects/1453) |
 |    🔍 5    |           | [1454](https://github.com/orgs/CodeSystem2022/projects/1454) |
 |    ⚙️ 6    |           | [1515](https://github.com/orgs/CodeSystem2022/projects/1515) |
-|    📊 7    |           |           |
+|    📊 7    |           | [1515](https://github.com/orgs/CodeSystem2022/projects/1587) |
 |    🖥️ 8    |           |           |
 |    🌐 9    |           |           |
 |    💾 10   |           |           |
