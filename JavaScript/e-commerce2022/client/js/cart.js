@@ -30,9 +30,9 @@ const displayCart = () => {
     
     // Modal body
     cart.forEach((p) => {
-        const mB = document.createElement("div");
-        mB.className = "modal-body";
-        mB.innerHTML = `
+        const modalBody = document.createElement("div");
+        modalBody.className = "modal-body";
+        modalBody.innerHTML = `
         <div class="product">
             <img class="product-img" src="${p.img}">
             <div class="product-info">
