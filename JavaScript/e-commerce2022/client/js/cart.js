@@ -48,6 +48,20 @@ const displayCart = () => {
         </div>
         `;
         modalContainer.append(modalBody);
+        
+        const d = modalBody.querySelector(".quantity-btn-decrease");
+        d.addEventListener("click", () => {
+            if (p.quantity !== 1) {
+                p.quantity--;
+                displayCart();
+            }
+        })
+
+        const i = modalBody.querySelector(".quantity-btn-increase");
+        i.addEventListener("click", () => {
+            p.quantity++;
+            displayCart();
+        })
     });
     
     // Modal footer
