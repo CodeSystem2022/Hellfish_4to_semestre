@@ -120,8 +120,10 @@ const displayCart = () => {
     const modalFooter = document.createElement("div");
     modalFooter.className = "modal-footer";
     modalFooter.innerHTML = `
-    <div class="total-price">Total: ${total}</div>
-    `;
+        <div class="total-price">Total: ${total}</div>
+        <button class="btn-primary" id="checkout-btn">go to checkout</button>
+        <div id="button-checkout"></div>
+        `;
     modalContainer.append(modalFooter);
         // Modal footer
         const modalFooter = document.createElement("div");
@@ -130,6 +132,13 @@ const displayCart = () => {
             <div class="total-price">Total: ${total}</div>
             `;
         modalContainer.append(modalFooter);
+
+        // mp
+        const mp = new MercadoPago("public_key", {
+            locale: "es-AR",
+        })
+
+        const checkoutButton = modalFooter.querySelector("#checkout-btn");
 
     } else {
         const modalText = document.createElement("H2");
