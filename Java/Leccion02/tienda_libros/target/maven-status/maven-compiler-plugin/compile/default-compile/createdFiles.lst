@@ -1,0 +1,6 @@
+utn\tienda_libros\repositorio\LibroRepositorio.class
+utn\tienda_libros\servicio\ILibroServicio.class
+utn\tienda_libros\servicio\LibroServicio.class
+utn\tienda_libros\vista\LibroFrom.class
+utn\tienda_libros\TiendaLibrosApplication.class
+utn\tienda_libros\modelo\Libro.class
