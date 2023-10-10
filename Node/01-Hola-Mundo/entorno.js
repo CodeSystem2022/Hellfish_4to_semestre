@@ -1,5 +1,5 @@
 let nombre = process.env.NOMBRE || "Sin nombre";
-let web = process.env.web || "Sin web";
+let web = process.env.MI_WEB || "Sin web";
 
 // para introducir esa variable de entorno al ejecutar
 // $env:NOMBRE="Carlos"; node entorno
