@@ -15,12 +15,50 @@ import lombok.ToString;
 @AllArgsConstructor
 @ToString
 public class Libro {
+
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     Integer idLibro;
-
     String nombreLibro;
     String autor;
     Double precio;
     Integer existencias;
+
+    // getters
+    public Integer getIdLibro() {
+        return idLibro;
+    }
+
+    public String getNombreLibro() {
+        return this.nombreLibro;
+    }
+
+    public String getAutor() {
+        return this.autor;
+    }
+
+    public Double getPrecio() {
+        return this.precio;
+    }
+
+    public Integer getExistencias() {
+        return this.existencias;
+    }
+
+    // Setters
+    public void setNombreLibro(String str) {
+        this.nombreLibro = str;
+    }
+
+    public void setAutor(String str) {
+        this.autor = str;
+    }
+
+    public void setPrecio(Double n) {
+        this.precio = n;
+    }
+
+    public void setExistencias(int n) {
+        this.existencias = n;
+    }
 }
