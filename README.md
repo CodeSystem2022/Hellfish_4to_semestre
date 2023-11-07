@@ -38,10 +38,10 @@ En este cuadro, se detallan las responsabilidades de los Scrum Leads para las pr
 |    📊 7    | [Franco Blanco](https://github.com/FrancoFB) | [1587](https://github.com/orgs/CodeSystem2022/projects/1587) |
 |    🖥️ 8    | [Fabricio Navarro](https://github.com/elfabri) | [1643](https://github.com/orgs/CodeSystem2022/projects/1643) |
 |    🌐 9    | [Sofia Sottile](https://github.com/SofiaaSottile18) | [1701](https://github.com/orgs/CodeSystem2022/projects/1701) |
-|    💾 10   |           |           |
-|    🛸 11   |           |           |
-|    🎛️ 12   |           |           |
-|    📈 13   |           |           |
+|    💾 10   | [Franco Blanco](https://github.com/FrancoFB) | [1757](https://github.com/orgs/CodeSystem2022/projects/1757) |
+|    🛸 11   | [Fabricio Navarro](https://github.com/elfabri) | [1958](https://github.com/orgs/CodeSystem2022/projects/1958) |
+|    🎛️ 12   | [Sofia Sottile](https://github.com/SofiaaSottile18) | [1959](https://github.com/orgs/CodeSystem2022/projects/1959) |
+|    📈 13   | [Franco Blanco](https://github.com/FrancoFB) | [1960](https://github.com/orgs/CodeSystem2022/projects/1960) |
 
 
 <div align="center">
