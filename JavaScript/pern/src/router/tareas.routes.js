@@ -1,16 +1,17 @@
-import Router from "express-promise-router";
-import { listarTareas, listarTarea, crearTarea, actualizarTareas, eliminarTareas } from "../controllers/tareas.controller.js";
+import  Router  from "express-promise-router";
+import { listarTareas, listarTarea, crearTarea, actualizarTarea, eliminarTarea } from "../controllers/tareas.controller.js";
+import {isAuth} from "../middlewares/auth.middleware.js"
 
 const router = Router();
 
-router.get("/tareas", listarTareas);
+router.get('/tareas', isAuth, listarTareas);
 
-router.get("/tareas/:id", listarTarea);
+router.get('/tareas/:id', isAuth, listarTarea);
 
-router.post("/tareas", crearTarea);
+router.post('/tareas', isAuth, crearTarea);
 
-router.put("/tareas/:id", actualizarTareas);
+router.put('/tareas/:id', isAuth, actualizarTarea);
 
-router.delete("/tareas/:id", eliminarTareas);
+router.delete('/tareas/:id', isAuth, eliminarTarea);
 
 export default router;
