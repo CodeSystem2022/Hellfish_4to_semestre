@@ -55,3 +55,15 @@ En este cuadro, se detallan las responsabilidades de los Scrum Leads para las pr
 <h2>📖 Wiki Hellfish</h2>
 
 [Ir a la wiki del proyecto](https://github.com/CodeSystem2022/Hellfish_4to_semestre/wiki) 🚀
+
+<h2>Proyecto Final</h2>
+
+[Ir al repositorio del proyecto final](https://github.com/CodeSystem2022/Hellfish_E-commerce) 🚀
+
+### Mensaje de los integrantes que quedamos
+
+Solo queremos dar las gracias a los profesores, tutores y alumnos de la Tecnicatura, y dejar en claro que como equipo tuvimos muchísimos problemas, especialmente en este semestre, en el que comenzamos siendo 9 y solo quedamos 3. Los 3 hemos tenido semanas muy difíciles últimamente y por eso no hemos podido cargar las clases al tiempo correspondiente (en las semanas que se dieron esas clases), pero aseguramos que está todo completo, excepto por algunos proyectos de los tutores, que no son obligatorios pero que queríamos hacer, y al final por motivo de tiempos no hemos podido.
+
+Esperamos que puedan visitar nuestro proyecto final y que el mismo esté a la altura de sus expectativas.
+
+Sin más que agregar, damos nuevamente las gracias a los profesores, tutores y alumnos de otros grupos, quedamos a disposición para aclarar cualquier duda que podamos. ¡Muchas gracias a todos!
